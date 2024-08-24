@@ -1,7 +1,7 @@
-# vex-high-stakes-
-a repository for vex high stakes 
+# VEX High Stakes
+A repository for VEX high stakes 
 this repo will contain:
-* code
-* cad
-* tests
-* documentation
+* Code
+* CAD
+* Tests
+* Documentation
